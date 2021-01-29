@@ -1,0 +1,63 @@
+Fact,New York County (Manhattan Borough),New York City,Charlotte,Memphis,Austin,Kansas City
+"Population estimates, July 1, 2019,  (V2019)",1628706,8336817,885708,651073,978908,495327
+"Population estimates base, April 1, 2010,  (V2019)",1586381,8175031,735607,651873,801829,459902
+"Population, percent change - April 1, 2010 (estimates base) to July 1, 2019,  (V2019)",0.027,0.02,0.204,-0.001,0.221,0.077
+"Population, Census, April 1, 2010",1585873,8175133,731424,646889,790390,459787
+"Persons under 5 years, percent",0.047,0.065,0.068,0.076,0.064,0.068
+"Persons under 18 years, percent",0.143,0.208,0.237,0.25,0.204,0.231
+"Persons 65 years and over, percent",0.17,0.145,0.102,0.128,0.089,0.129
+"Female persons, percent",0.526,0.523,0.519,0.527,0.492,0.515
+"White alone, percent",0.646,0.427,0.488,0.292,0.726,0.609
+"Black or African American alone, percent",0.178,0.243,0.352,0.641,0.078,0.282
+"American Indian and Alaska Native alone, percent",0.012,0.004,0.004,0.002,0.007,0.004
+"Asian alone, percent",0.128,0.141,0.065,0.017,0.076,0.027
+"Native Hawaiian and Other Pacific Islander alone, percent",0.002,0.001,0.001,0,0.001,0.002
+"Two or More Races, percent",0.034,0.036,0.028,0.015,0.035,0.036
+"Hispanic or Latino, percent",0.256,0.291,0.143,0.072,0.339,0.106
+"White alone, not Hispanic or Latino, percent",0.472,0.321,0.415,0.257,0.483,0.552
+"Veterans, 2015-2019",31459,150924,35825,30720,36094,25119
+"Foreign born persons, percent, 2015-2019",0.287,0.368,0.167,0.062,0.188,0.082
+"Housing units,  July 1, 2019,  (V2019)",892878,X,X,X,X,X
+"Owner-occupied housing unit rate, 2015-2019",0.241,0.327,0.529,0.466,0.451,0.533
+"Median value of owner-occupied housing units, 2015-2019",987700,606000,220300,101800,337400,154600
+"Median selected monthly owner costs -with a mortgage, 2015-2019",3339,2730,1446,1191,2031,1382
+"Median selected monthly owner costs -without a mortgage, 2015-2019",1057,903,496,450,806,499
+"Median gross rent, 2015-2019",1740,1443,1135,901,1280,941
+"Building permits, 2019",5512,X,X,X,X,X
+"Households, 2015-2019",759460,3167034,330391,251732,380392,203356
+"Persons per household, 2015-2019",2.07,2.6,2.56,2.53,2.44,2.35
+"Living in same house 1 year ago, percent of persons age 1 year+, 2015-2019",0.844,0.9,0.815,0.84,0.79,0.815
+"Language other than English spoken at home, percent of persons age 5 years+, 2015-2019",0.394,0.485,0.217,0.096,0.319,0.124
+"Households with a computer, percent, 2015-2019",0.912,0.891,0.94,0.806,0.949,0.898
+"Households with a broadband Internet subscription, percent, 2015-2019",0.852,0.815,0.874,0.695,0.875,0.813
+"High school graduate or higher, percent of persons age 25 years+, 2015-2019",0.873,0.822,0.891,0.857,0.894,0.9
+"Bachelor's degree or higher, percent of persons age 25 years+, 2015-2019",0.613,0.381,0.443,0.262,0.517,0.352
+"With a disability, under age 65 years, percent, 2015-2019",0.061,0.068,0.054,0.1,0.062,0.092
+"Persons  without health insurance, under age 65 years, percent",0.061,0.086,0.138,0.155,0.147,0.134
+"In civilian labor force, total, percent of population age 16 years+, 2015-2019",0.673,0.636,0.716,0.633,0.738,0.69
+"In civilian labor force, female, percent of population age 16 years+, 2015-2019",0.629,0.588,0.665,0.608,0.674,0.651
+"Total accommodation and food services sales, 2012 ($1,000)",20382622,27452861,2413557,1503947,3474670,1630048
+"Total health care and social assistance receipts/revenue, 2012 ($1,000)",34680452,76165547,7031767,6624207,6609254,5060279
+"Total manufacturers shipments, 2012 ($1,000)",4970920,14816322,9376077,18372536,11413406,8635055
+"Total merchant wholesaler sales, 2012 ($1,000)",128760891,173797846,19884597,28725894,55701978,14577576
+"Total retail sales, 2012 ($1,000)",44039957,92265000,10901026,18848867,14738182,7537341
+"Total retail sales per capita, 2012",27200,11067,14062,28770,17491,16233
+"Mean travel time to work (minutes), workers age 16 years+, 2015-2019",32.2,41.5,25.9,21.7,24.5,22
+"Median household income (in 2019 dollars), 2015-2019",86553,63998,62817,41228,71576,54194
+"Per capita income in past 12 months (in 2019 dollars), 2015-2019",76592,39828,38000,25605,43043,32348
+"Persons in poverty, percent",0.141,0.179,0.128,0.251,0.132,0.161
+"Total employer establishments, 2018",102903,X,X,X,X,X
+"Total employment, 2018",2276786,X,X,X,X,X
+"Total annual payroll, 2018 ($1,000)",263303530,X,X,X,X,X
+"Total employment, percent change, 2017-2018",0.007,X,X,X,X,X
+"Total nonemployer establishments, 2018",232503,X,X,X,X,X
+"All firms, 2012",315399,1050911,81973,70891,96048,39486
+"Men-owned firms, 2012",171730,571852,41600,30568,51518,20191
+"Women-owned firms, 2012",114896,413899,32008,35710,34253,14564
+"Minority-owned firms, 2012",99763,539447,32449,43949,28888,9979
+"Nonminority-owned firms, 2012",198433,483136,45269,24758,62905,27421
+"Veteran-owned firms, 2012",18120,57216,7655,6795,7314,3514
+"Nonveteran-owned firms, 2012",280398,966167,69136,61460,84168,33138
+"Population per square mile, 2010",69467.5,27012.5,2457.1,2053.3,2653.2,1459.9
+"Land area in square miles, 2010",22.83,302.64,297.68,315.06,297.9,314.95
+FIPS Code,"""36061""","""3651000""","""3712000""","""4748000""","""4805000""","""2938000"""
